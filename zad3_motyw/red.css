@@ -1,0 +1,136 @@
+body {
+    background-color: #ffd7d7;
+}
+
+.body_cv {
+    margin: 0;
+    padding: 30px 20px;
+    text-align: center;
+    font-family: "Gill Sans", "Trebuchet MS", "Verdana", sans-serif;
+    font-weight: bold;
+    color: #620000;
+}
+
+.head_box {
+    background-color: #620000;
+    color: #ffb0b0;
+    max-width: 900px;
+    margin: 0 auto 30px auto;
+    padding: 30px 20px;
+    border-radius: 24px;
+    border: 5px solid #ff7575;
+}
+
+.main_ttl {
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-size: 34px;
+}
+
+.photo_img {
+    width: 170px;
+    height: 170px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.main_cv {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.sec_box {
+    background-color: #620000;
+    margin-bottom: 25px;
+    padding: 25px 20px;
+    border-radius: 22px;
+    border: 5px solid #ff7575;
+}
+
+.sec_ttl {
+    font-size: 28px;
+    margin-top: 0;
+    margin-bottom: 18px;
+    color: #ffb0b0;
+}
+
+.sub_ttl {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: #620000;
+}
+
+.art_box {
+    background-color: #620000;
+    margin: 15px auto;
+    padding: 18px;
+    border-radius: 18px;
+    max-width: 700px;
+}
+
+.email_txt,
+.tel_txt,
+.city_txt,
+.omnie_txt,
+.prtsud_txt,
+.pridywid_txt,
+.vistula_txt {
+    font-size: 18px;
+    line-height: 1.6;
+    margin: 10px 0;
+    color: #620000;
+}
+
+.footer_txt {
+    margin: 0;
+    color: #ffd7d7;
+}
+
+.list_txt {
+    list-style-position: inside;
+    padding-left: 0;
+    margin: 0;
+    color: #620000;
+}
+
+.list_txt li {
+    margin: 10px 0;
+    font-size: 18px;
+}
+
+a {
+    color: #620000;
+}
+
+a:hover {
+    color: #ffb0b0;
+}
+
+.foot_box {
+    background-color: #620000;
+    color: #ffd7d7;
+    max-width: 900px;
+    margin: 30px auto 0 auto;
+    padding: 20px;
+    border-radius: 24px;
+    border: 5px solid #ff7575;
+}
+
+.main_ttl,
+.sec_ttl,
+.sub_ttl {
+    font-family: "Franklin Gothic Medium", "Arial Narrow", "Segoe UI", "Arial", sans-serif;
+    font-weight: 800;
+    letter-spacing: 0.5px;
+}
+
+.box_txt {
+    background-color: #ff4e4e;
+    padding: 12px 16px;
+    border-radius: 14px;
+    margin: 10px auto;
+    max-width: 600px;
+}
