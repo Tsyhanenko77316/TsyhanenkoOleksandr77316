@@ -1,0 +1,128 @@
+body {
+    background-color: #c7ecd8;
+}
+
+.body_cv {
+    margin: 0;
+    padding: 30px 20px;
+    text-align: center;
+    font-family: "Trebuchet MS", "Verdana", sans-serif;
+    font-weight: bold;
+    color: #102f1e;
+}
+
+.head_box {
+    background-color: #102f1e;
+    color: #8cd9ae;
+    max-width: 900px;
+    margin: 0 auto 30px auto;
+    padding: 30px 20px;
+    border-radius: 24px;
+}
+
+.main_ttl {
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-size: 34px;
+}
+
+.photo_img {
+    width: 170px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 18px;
+}
+
+.main_cv {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.sec_box {
+    background-color: #e4f6ec;
+    margin-bottom: 25px;
+    padding: 25px 20px;
+    border-radius: 22px;
+}
+
+.sec_ttl {
+    font-size: 28px;
+    margin-top: 0;
+    margin-bottom: 18px;
+}
+
+.sub_ttl {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.art_box {
+    background-color: #c7ecd8;
+    margin: 15px auto;
+    padding: 18px;
+    border-radius: 18px;
+    max-width: 700px;
+}
+
+.email_txt,
+.tel_txt,
+.city_txt,
+.omnie_txt,
+.prtsud_txt,
+.pridywid_txt,
+.vistula_txt,
+.footer_txt {
+    font-size: 18px;
+    line-height: 1.6;
+    margin: 10px 0;
+}
+
+.list_txt {
+    list-style-position: inside;
+    padding-left: 0;
+    margin: 0;
+}
+
+.list_txt li {
+    margin: 10px 0;
+    font-size: 18px;
+}
+
+a {
+    color: #102f1e;
+}
+
+a:hover {
+    color: #8cd9ae;
+}
+
+.foot_box {
+    background-color: #102f1e;
+    color: #8cd9ae;
+    max-width: 900px;
+    margin: 30px auto 0 auto;
+    padding: 20px;
+    border-radius: 24px;
+}
+
+.footer_txt {
+    margin: 0;
+}
+
+.main_ttl,
+.sec_ttl,
+.sub_ttl {
+    font-family: "Segoe UI", "Arial", sans-serif;
+    font-weight: 800;
+    letter-spacing: 0.5px;
+}
+
+.box_txt {
+    background-color: #c7ecd8;
+    padding: 12px 16px;
+    border-radius: 14px;
+    margin: 10px auto;
+    max-width: 600px;
+}
