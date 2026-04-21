@@ -31,7 +31,7 @@ btnUkryc.addEventListener('click', () => {
 }
 );
 
-// dla zadania numer 5
+// dla zadania 5
 // deklaracja const dla formularza
 const formaCV = document.getElementById('Forma_CV');
 const imie = document.getElementById('Imie');
