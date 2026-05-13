@@ -1,0 +1,14 @@
+[
+  {
+    "imie": "Oleksandr",
+    "nazwisko": "Tsyhanenko",
+    "email": "olexandrtsyganenko@stu.vistula.edu.pl",
+    "wiadomosc": "Jaksaść tam wiadomość"
+  },
+  {
+    "imie": "Test",
+    "nazwisko": "Test",
+    "email": "test@stu.vistula.edu.pl",
+    "wiadomosc": "Jaksaść tam wiadomość numer 2"
+  }
+]

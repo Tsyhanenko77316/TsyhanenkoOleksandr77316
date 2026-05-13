@@ -1,0 +1,21 @@
+{
+    "umiejetnosci": [
+        "HTML",
+        "CSS",
+        "C#",
+        "SQL",
+        "Test1",
+        "Procreate (rysowanie postaci, grafiki koncepcyjne i portrety)"
+    ],
+    "projektyCSharp": [
+        "Kalkulator Indywidualny",
+        "Analizator Indywidualny",
+        "Symulator Automatu Vendingowego",
+        "Test1"
+    ],
+    "projektySQL": [
+        "Różne zadania dotyczące obliczania wynagrodzeń pracowników oraz wyszukiwania różnych informacji na ich temat.",
+        "System podróży autobusowych, który pozwala zamawiać bilety na kursy, dodawać pasażerów i kierowców do autobusów oraz usuwać ich z autobusów.",
+        "Test1"
+    ]
+}
